@@ -177,15 +177,10 @@ The project uses a custom dataset of Portuguese articles with three categories:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👥 Authors
-
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/yourusername)
-
 ## 🙏 Acknowledgments
 
 - Universidade Federal de Ouro Preto (UFOP)
 - Department of Computer Science
-- Research advisors and colleagues
 
 ## 📚 Research Context
 
